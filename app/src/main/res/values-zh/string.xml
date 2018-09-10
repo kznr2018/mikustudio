@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">设置</string>
+    <string name="title_settings">设置</string>
+    <string name="title_set_wallpaper">设为壁纸</string>
+    <string name="title_activity_set_title">偏好设置</string>
+    <string name="title_activity_set_preview_voice">预览声音</string>
+    <string name="title_activity_set_wallpaper_voice">壁纸声音</string>
+    <string name="title_activity_set_wallpaper_white">加入白名单</string>
+    <string name="nav_about">关于</string>
+    <string name="nav_reset">恢复默认桌面</string>
+    <string name="nav_share">分享</string>
+    <string name="nav_communicate">扩展</string>
+    <string name="nav_options">选项</string>
+
+    <string name="reason">视频壁纸服务的持续运行</string>
+
+</resources>
